@@ -16,7 +16,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.vkh.aora"
     },
     "android": {
       "adaptiveIcon": {
