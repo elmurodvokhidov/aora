@@ -2,10 +2,6 @@
 
 Welcome to the Aora project! Aora is a cutting-edge application designed to enhance productivity and streamline various tasks.
 
-## Description
-
-Aora is an innovative solution that helps users efficiently manage their tasks and projects. With a user-friendly interface and a suite of powerful features, Aora is designed to improve productivity, facilitate collaboration, and ensure seamless task management. Whether you're an individual looking to organize your daily tasks or a team working on a complex project, Aora provides the tools necessary to succeed.
-
 ## Features
 
 - **Task Management**: Efficiently create, update, and delete tasks.
